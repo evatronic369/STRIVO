@@ -1,0 +1,6 @@
+{
+  "name": "STRIVO",
+  "description": "Completely free, unlimited interactive guitar learning app with real-time audio pitch detection, note highway, tuner, chord library, and song practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
